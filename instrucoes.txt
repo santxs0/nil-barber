@@ -1,0 +1,102 @@
+Edite o código HTML fornecido, substituindo todas as informações da barbearia Porão Barber Club pelas informações da Nil Barber, utilizando os dados abaixo como referência.
+
+1. Identidade da barbearia
+
+- Nome: Nil Barber
+- Categoria: Barbearia
+- Avaliação no Google: 5,0 estrelas
+- Quantidade de avaliações: 161
+- Slogan: Crie uma frase marcante e profissional para a barbearia, mantendo a proposta moderna do site atual.
+
+2. Endereço
+
+Substitua todos os endereços antigos pelo seguinte endereço:
+
+Galeria Le Village, Rua Augusta, 1492, segundo andar, sobreloja 04, Consolação, São Paulo – SP, CEP 01304-001.
+
+A barbearia está localizada dentro da Galeria Le Village. Essa informação deve aparecer de forma clara na seção de localização.
+
+3. Contato
+
+Atualize todos os links e informações de contato:
+
+- Telefone: (11) 94111-9190
+- WhatsApp: https://wa.me/5511941119190
+
+O botão principal do cabeçalho deve continuar direcionando para o WhatsApp, assim como os demais botões de agendamento e contato.
+
+Adicione também um botão secundário para acessar a página da barbearia no Hopp.
+
+4. Localização no Google Maps
+
+Atualize o botão de localização para abrir o Google Maps com o endereço correto da Nil Barber.
+
+Utilize este link de pesquisa:
+https://www.google.com/maps/search/?api=1&query=Nil+Barber+Galeria+Le+Village+Rua+Augusta+1492+Consola%C3%A7%C3%A3o+S%C3%A3o+Paulo
+
+O botão deve ter um texto como "Ver localização no Google Maps" ou "Como chegar".
+
+5. Horário de funcionamento
+
+As informações disponíveis indicam que a barbearia fecha às 21h em determinado dia e abre às 10h na quarta-feira.
+
+Não invente os horários dos outros dias da semana. Como não temos a grade completa de funcionamento, utilize um texto como:
+
+"Consulte os horários disponíveis e agende seu atendimento pelo WhatsApp."
+
+Se preferir exibir os horários específicos, deixe-os preparados para serem preenchidos posteriormente.
+
+6. Inclusão e atendimento
+
+A Nil Barber está identificada como uma empresa que acolhe a comunidade LGBTQ+.
+
+Mantenha uma mensagem de boas-vindas inclusiva, profissional e respeitosa, sem inventar outros serviços ou características da empresa.
+
+7. Alterações no HTML
+
+Faça as seguintes modificações no código original:
+
+- Substitua todas as ocorrências de "Porão Barber Club" e suas variações por "Nil Barber".
+- Atualize o título da página ("<title>") para "Nil Barber | [slogan escolhido]".
+- Atualize a meta description com o nome Nil Barber e a localização em São Paulo.
+- Substitua o nome e o símbolo da marca no cabeçalho por uma identidade visual adequada à Nil Barber. Utilize "N" como símbolo provisório, caso não exista uma logo fornecida.
+- Atualize os textos do banner principal, da seção institucional, dos serviços, da localização e do rodapé.
+- Atualize a avaliação de 4,9 estrelas para 5,0 estrelas e a quantidade de avaliações de 36 para 161.
+- Remova as referências antigas à Barra do Ceará e a Fortaleza.
+- Atualize todos os links de WhatsApp, telefone e Google Maps.
+- Inclua o link do Hopp em um botão visualmente consistente com os demais elementos.
+- Preserve os efeitos de hover, as animações existentes e os estilos CSS.
+- Mantenha as fontes atuais e a identidade visual escura, com detalhes em verde-limão, a menos que seja necessário algum ajuste para combinar melhor com a Nil Barber.
+- Preserve a estrutura semântica do HTML e o bom desempenho da página.
+
+8. Seção de serviços
+
+Mantenha os cards de serviços de corte, barba e combo como conteúdo provisório, pois não temos uma lista oficial dos serviços oferecidos pela Nil Barber.
+
+Não invente preços, promoções, serviços especiais ou diferenciais que não estejam confirmados.
+
+9. Responsividade
+
+O site precisa continuar funcionando perfeitamente em computadores, tablets e celulares.
+
+Verifique especialmente:
+
+- O botão de agendamento no cabeçalho.
+- A disposição dos textos no banner principal.
+- Os cards de serviços.
+- A seção de endereço e contato.
+- O botão do WhatsApp.
+- O tamanho dos textos e os espaçamentos em telas pequenas.
+
+10. Regras obrigatórias
+
+- Utilize o HTML original como base.
+- Não reconstrua o projeto do zero.
+- Não remova seções ou funcionalidades existentes sem necessidade.
+- Não altere a estrutura geral do layout.
+- Não invente informações comerciais.
+- Não utilize informações antigas do Porão Barber Club em nenhuma parte da página.
+- Não altere links sem verificar se eles correspondem à Nil Barber.
+- Mantenha o código organizado e funcional.
+
+Resultado esperado: entregue o HTML completo e atualizado, pronto para substituir o arquivo original. Não entregue apenas trechos ou exemplos de código. Preserve o visual profissional e moderno do site, adaptando toda a comunicação para a Nil Barber, localizada na Rua Augusta, em São Paulo.
